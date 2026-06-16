@@ -1,0 +1,47 @@
+=================================================================
+RELATÓRIO DE TESTE A/B — PARCEIRO C
+=================================================================
+Período: 01/07/2011 a 14/08/2011 (45 dias)
+Grupos testados: 2
+Gerado em: 16/06/2026 11:37
+
+─────────────────────────────────────────────────────────────────
+1. MÉTRICAS CONSOLIDADAS POR GRUPO
+─────────────────────────────────────────────────────────────────
+
+Grupo 1
+  Compradores totais:           4,549
+  Vendas totais (GMV):     R$ 1,738,460.00
+  Comissão recebida:       R$   121,693.00
+  Cashback distribuído:    R$    86,924.00
+  Margem líquida:          R$    34,769.00
+  Ticket médio:            R$       382.16
+  Taxa de cashback:              71.4%
+  ROI (margem/cashback):         0.40x
+  Vendas/dia:              R$    38,632.44
+
+Grupo 2
+  Compradores totais:           4,522
+  Vendas totais (GMV):     R$ 1,685,235.00
+  Comissão recebida:       R$   117,967.00
+  Cashback distribuído:    R$   117,967.00
+  Margem líquida:          R$         0.00
+  Ticket médio:            R$       372.67
+  Taxa de cashback:             100.0%
+  ROI (margem/cashback):         0.00x
+  Vendas/dia:              R$    37,449.67
+
+─────────────────────────────────────────────────────────────────
+2. TESTE DE SIGNIFICÂNCIA ESTATÍSTICA (t-test, α = 0.05)
+─────────────────────────────────────────────────────────────────
+  Grupo 1 vs Grupo 2
+    p-value: 0.6347  |  Significativo: Não
+
+─────────────────────────────────────────────────────────────────
+3. ANÁLISE E DECISÃO
+─────────────────────────────────────────────────────────────────
+
+  Nenhum grupo superou o controle (Grupo 1) de forma
+  consistente. Recomenda-se manter o grupo de controle.
+
+=================================================================

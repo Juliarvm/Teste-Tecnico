@@ -1,0 +1,62 @@
+=================================================================
+RELATÓRIO DE TESTE A/B — PARCEIRO B
+=================================================================
+Período: 01/05/2011 a 30/06/2011 (61 dias)
+Grupos testados: 3
+Gerado em: 16/06/2026 11:37
+
+─────────────────────────────────────────────────────────────────
+1. MÉTRICAS CONSOLIDADAS POR GRUPO
+─────────────────────────────────────────────────────────────────
+
+Grupo 1
+  Compradores totais:           7,990
+  Vendas totais (GMV):     R$ 4,093,818.00
+  Comissão recebida:       R$   450,321.00
+  Cashback distribuído:    R$   163,751.00
+  Margem líquida:          R$   286,570.00
+  Ticket médio:            R$       512.37
+  Taxa de cashback:              36.4%
+  ROI (margem/cashback):         1.75x
+  Vendas/dia:              R$    67,111.77
+
+Grupo 2
+  Compradores totais:           5,452
+  Vendas totais (GMV):     R$ 2,863,019.00
+  Comissão recebida:       R$   314,935.00
+  Cashback distribuído:    R$   171,778.00
+  Margem líquida:          R$   143,157.00
+  Ticket médio:            R$       525.13
+  Taxa de cashback:              54.5%
+  ROI (margem/cashback):         0.83x
+  Vendas/dia:              R$    46,934.74
+
+Grupo 3
+  Compradores totais:           5,029
+  Vendas totais (GMV):     R$ 2,629,963.00
+  Comissão recebida:       R$   289,290.00
+  Cashback distribuído:    R$   236,697.00
+  Margem líquida:          R$    52,593.00
+  Ticket médio:            R$       522.96
+  Taxa de cashback:              81.8%
+  ROI (margem/cashback):         0.22x
+  Vendas/dia:              R$    43,114.15
+
+─────────────────────────────────────────────────────────────────
+2. TESTE DE SIGNIFICÂNCIA ESTATÍSTICA (t-test, α = 0.05)
+─────────────────────────────────────────────────────────────────
+  Grupo 1 vs Grupo 2
+    p-value: 0.0  |  Significativo: Sim
+  Grupo 1 vs Grupo 3
+    p-value: 0.0  |  Significativo: Sim
+  Grupo 2 vs Grupo 3
+    p-value: 0.2951  |  Significativo: Não
+
+─────────────────────────────────────────────────────────────────
+3. ANÁLISE E DECISÃO
+─────────────────────────────────────────────────────────────────
+
+  Nenhum grupo superou o controle (Grupo 1) de forma
+  consistente. Recomenda-se manter o grupo de controle.
+
+=================================================================

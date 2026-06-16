@@ -1,0 +1,4 @@
+nome_teste,descricao,resultado,decisao,data_analise
+Teste A/B Parceiro A,Teste com 3 grupos — 01/01/2011 a 02/04/2011 (92 dias),Grupo 3 vence com +21.1% em vendas,Escalar Grupo 3 para 100% do tráfego,16/06/2026
+Teste A/B Parceiro B,Teste com 3 grupos — 01/05/2011 a 30/06/2011 (61 dias),Inconclusivo,Manter Grupo 1 (sem vencedor claro),16/06/2026
+Teste A/B Parceiro C,Teste com 2 grupos — 01/07/2011 a 14/08/2011 (45 dias),Inconclusivo,Manter Grupo 1 (sem vencedor claro),16/06/2026
