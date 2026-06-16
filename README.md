@@ -25,18 +25,20 @@ ab_cashback/
 
 ```bash
 pip install pandas scipy numpy
+ou
+python -m pip install pandas scipy numpy
 ```
 
 ### Analisar um único arquivo
 
 ```bash
-python analisar.py caminho/para/dataset.csv
+python analisar.py Datasets/dataset_01_parceiroA.csv
 ```
 
 ### Analisar vários de uma vez
 
 ```bash
-python analisar.py dataset_01_parceiroA.csv dataset_02_parceiroB.csv dataset_03_parceiroC.csv
+python analisar.py Datasets/dataset_01_parceiroA.csv Datasets/dataset_02_parceiroB.csv Datasets/dataset_03_parceiroC.csv
 ```
 
 Os arquivos CSV podem estar em qualquer pasta — basta passar o caminho completo. Não é necessário colocá-los na mesma pasta do script.
