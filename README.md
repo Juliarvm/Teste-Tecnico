@@ -9,10 +9,14 @@ ab_cashback/
 ├── analisar.py                  # script principal
 ├── prompt_instrucao.txt         # instruções para uso com IA (Claude, ChatGPT etc.)
 ├── acompanhamento_testes.csv    # planilha com todos os testes analisados
-└── relatorios/
+└── Relatorios/
     ├── relatorio_parceiroa.txt
     ├── relatorio_parceirob.txt
     └── relatorio_parceiroc.txt
+└── Datasets/
+    ├── dataset_01_parceiroA.csv  # datasets usados
+    ├── dataset_02_parceiroB.csv
+    └── dataset_03_parceiroC.csv
 ```
 
 ## Como rodar
